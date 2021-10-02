@@ -1,8 +1,14 @@
-# Oveerview of Numpy Random Package
+# Overview of Numpy Random Package
 
 ***
 
 This repository contains an overview of the numpy.random package in a Jupyter notebook.
+
+## Quick Steps
+
+You can view notebook at the following URL:
+
+https://nbviewer.jupyter.org/github/Emmanuel-Osabuehien/numpy-random/blob/main/numpy-random.ipynb
 
 ## How to run the notebook
 
